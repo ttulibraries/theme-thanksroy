@@ -658,7 +658,7 @@ div.error {
 header {
     background-size: auto !important;
     -ms-behavior: url('../javascripts/backgroundsize.min.htc');
-    background-position-x: right !important;
+    background-position: left top !important;
 }
 
 .no-textshadow #site-title a {
